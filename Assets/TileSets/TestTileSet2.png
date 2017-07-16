@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<room roomID="001" roomName="">
+  <tileset/>
+  <leftWall wallHeight="4" wallTileHeight="32" wallTileWidth="32" wallWidth="8">
+    <lwdata>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+    </lwdata>
+  </leftWall>
+  <rightWall wallHeight="4" wallTileHeight="32" wallTileWidth="32" wallWidth="8">
+    <rwdata>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+    </rwdata>
+  </rightWall>
+  <floor floorHeight="8" floorTileHeight="16" floorTileWidth="32" floorWidth="8">
+    <floordata>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="1"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+      <tile gid="0"/>
+    </floordata>
+  </floor>
+</room>
